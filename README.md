@@ -13,10 +13,7 @@
 - 📈 **Trending & Popular Items** – Based on real-time purchase and view data.
 - 🧠 **Hybrid Recommendation Engine** – Collaborative + content-based filtering.
 - ❄️ **Cold Start Strategy** – Intelligent fallback for new users/products.
-- 🌍 **Location-Aware Suggestions** – Enhance personalization with geo-based trends.
-- 🧾 **Smart Bundling** – Frequently bought together, bundle deals, etc.
 - 💬 **Sentiment-Aware Filtering** – Uses product reviews to boost recommendation quality.
-- 🧰 **Explainable AI** – Build user trust with transparency into "why" suggestions appear.
 
 ---
 
