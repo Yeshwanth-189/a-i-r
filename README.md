@@ -41,5 +41,3 @@
 | `sentiment-aware`         | Text-based review sentiment analysis to influence ranking    |
 
 ---
-
-
